@@ -1,0 +1,28 @@
+.homeimg{
+    width: 35%;
+    height: 35%;
+  
+    float: left;
+margin-top: 1% !important;
+margin-right: 3%;
+}
+.hometext{
+    text-align: left;
+    word-spacing: 5%;
+    line-height: 200%;
+}
+.prod_text{
+    text-align: left;
+    word-spacing: 5%;
+    line-height: 200%;
+    width: 60%;
+    word-wrap: break-word;
+    
+}
+body{
+    background-color: rgba(155, 132, 219, 0.469);
+   
+}
+/* nav{
+
+} */
